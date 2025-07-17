@@ -46,13 +46,3 @@ Meet Mohan, a LinkedIn influencer who wants to maintain consistency in his conte
    ```
 
 ---
-
-## 📜 License & Terms
-
-This software is licensed under the **MIT License**.
-
-> ⚠️ **Important**: Commercial use is strictly **prohibited** without prior **written consent** from the author. Proper **attribution** is required in all copies or significant portions of the codebase.
-
----
-
-**© Codebasics Inc. All rights reserved.**
